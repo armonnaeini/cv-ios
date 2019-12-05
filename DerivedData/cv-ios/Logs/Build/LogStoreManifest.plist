@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>48CD3D8B-7FFA-4AAA-A39E-246AB51E42C2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>48CD3D8B-7FFA-4AAA-A39E-246AB51E42C2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597271047.26990497</real>
+			<key>timeStoppedRecording</key>
+			<real>597271047.78051198</real>
+			<key>title</key>
+			<string>Build cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>48CD3D8B-7FFA-4AAA-A39E-246AB51E42C2</string>
+		</dict>
+		<key>4E347C93-4F08-4D24-B8EB-F4FE304275EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4E347C93-4F08-4D24-B8EB-F4FE304275EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597271046.50887406</real>
+			<key>timeStoppedRecording</key>
+			<real>597271046.74019003</real>
+			<key>title</key>
+			<string>Clean cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>4E347C93-4F08-4D24-B8EB-F4FE304275EB</string>
+		</dict>
+		<key>AAFE28DE-ED28-4D37-BBE1-60DA62102F8A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AAFE28DE-ED28-4D37-BBE1-60DA62102F8A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597270916.42850101</real>
+			<key>timeStoppedRecording</key>
+			<real>597270969.82524705</real>
+			<key>title</key>
+			<string>Build cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>AAFE28DE-ED28-4D37-BBE1-60DA62102F8A</string>
+		</dict>
+		<key>B5B48EAD-23BA-4FBC-86CA-09A719B4BF85</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B5B48EAD-23BA-4FBC-86CA-09A719B4BF85.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597271176.45532405</real>
+			<key>timeStoppedRecording</key>
+			<real>597271196.48707998</real>
+			<key>title</key>
+			<string>Build cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B5B48EAD-23BA-4FBC-86CA-09A719B4BF85</string>
+		</dict>
+		<key>EB4DB76D-DE84-4456-9DA8-73FC24157D9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB4DB76D-DE84-4456-9DA8-73FC24157D9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597271059.76929796</real>
+			<key>timeStoppedRecording</key>
+			<real>597271172.61213803</real>
+			<key>title</key>
+			<string>Build cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>EB4DB76D-DE84-4456-9DA8-73FC24157D9B</string>
+		</dict>
+		<key>EE9F95EA-A058-43BE-BF49-6AF929D6C96F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE9F95EA-A058-43BE-BF49-6AF929D6C96F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597270910.764063</real>
+			<key>timeStoppedRecording</key>
+			<real>597270910.80049896</real>
+			<key>title</key>
+			<string>Build cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>EE9F95EA-A058-43BE-BF49-6AF929D6C96F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
