@@ -12,22 +12,28 @@ class ofApp : public ofxiOSApp {
         void update();
         void draw();
         void exit();
-    
+    ofColor newColor;
+    ofColor newColor2;
+
+
         void touchDown(ofTouchEventArgs & touch);
         void touchMoved(ofTouchEventArgs & touch);
         void touchUp(ofTouchEventArgs & touch);
         void touchDoubleTap(ofTouchEventArgs & touch);
         void touchCancelled(ofTouchEventArgs & touch);
-
+    void getPolylines();
+    void updateColor2();
+    
         void lostFocus();
         void gotFocus();
         void gotMemoryWarning();
         void deviceOrientationChanged(int newOrientation);
-    
+    void updateColor();
+    void polyToPath();
         ofVideoGrabber cam;
         ofxFaceTracker tracker;
         bool ready;
-            ofxCv::ContourFinder contourFinder;
+        ofxCv::ContourFinder contourFinder;
       
         ofImage colorImg;
         ofImage grayImage;         // grayscale depth image
@@ -38,9 +44,22 @@ class ofApp : public ofxiOSApp {
         int nearThreshold;
         int farThreshold;
         std::vector<ofPolyline> pp;
-    
+        int nextIndexToWrite;
+
     ofxCv::ObjectFinder finder;
     ofImage cropped;
+    int counter;
+    int counter2;
+
+    float last;
+    float last2;
+    bool bCam;
+    ofMesh asdfMesh;
+
+
+    
+    std::vector<ofMesh> meshVector;
+
 
 
 

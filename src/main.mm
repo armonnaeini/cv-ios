@@ -1,5 +1,6 @@
 #include "ofApp.h"
 
+
 int main() {
     
     //  here are the most commonly used iOS window settings.
@@ -19,5 +20,6 @@ int main() {
     settings.windowMode = OF_FULLSCREEN;
     ofCreateWindow(settings);
     
-	return ofRunApp(new ofApp);
+    return ofRunApp(new ofApp);
+    
 }

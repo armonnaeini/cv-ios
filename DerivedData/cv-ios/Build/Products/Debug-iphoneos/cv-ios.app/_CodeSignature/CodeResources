@@ -58,7 +58,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		mBcNDET6Pea05lbGMGaKtvlvHS4=
+		taTYQHB2oUUcTku+1tOzc2xy4Js=
 		</data>
 		<key>Brand Assets-568h@2x.png</key>
 		<data>
@@ -150,15 +150,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TbuwG7TZJokb+2BwabVIBJLzudc=
+		jlgo0Hbd7dM0u3K1XoJ/+LQjrOk=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		5EEzq4qxDjpbY++tcdJECZEbick=
+		p8uSDU2SaQAYPkxPGDa7lQCOIzA=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		5Uq91sWqvkbjB470MGvIaxmOJ7c=
+		oQiZmJLWsHKUHv9uMT1Ug+7QyqM=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -166,11 +166,11 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		kHWHyF903hfKQpPt5vufBQqPR9A=
+		rjHspqYu7rJoYfG7kqkvOmHLDsk=
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		w2bVAKgA2jemuBFA/Lh7IcNMM5w=
+		NqIxLD5JGS5J4OBg2PZhAuEWc1Q=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -178,7 +178,23 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		5qHQslCs6dA3xPwWy+wBnN/VjBU=
+		ocKuZTkcpgs8YeL2USg2nF4LO/A=
+		</data>
+		<key>model/face.con</key>
+		<data>
+		ri9m8+arh4I5cc84ZJQWmLZeRkw=
+		</data>
+		<key>model/face.tracker</key>
+		<data>
+		yfFhQN51tbC0u9zeVcdPuIFbVxQ=
+		</data>
+		<key>model/face.tri</key>
+		<data>
+		+AiZ3IRZkJ3JbI3fCPq00NUJ3+I=
+		</data>
+		<key>model/face2.tracker</key>
+		<data>
+		9KEmsnFNGKiVEvVfLGRSMz64Vcw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -330,11 +346,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mBcNDET6Pea05lbGMGaKtvlvHS4=
+			taTYQHB2oUUcTku+1tOzc2xy4Js=
 			</data>
 			<key>hash2</key>
 			<data>
-			igkrktdvsKVp1wjnfJ0RdOEaX7NfnY31ajVgy+DH30Y=
+			jTLOEMAEGp8HiV45N1OLqr3C4FpROiJEAHk/vnjtf0Y=
 			</data>
 		</dict>
 		<key>Brand Assets-568h@2x.png</key>
@@ -583,22 +599,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5EEzq4qxDjpbY++tcdJECZEbick=
+			p8uSDU2SaQAYPkxPGDa7lQCOIzA=
 			</data>
 			<key>hash2</key>
 			<data>
-			rtbUv21xcaf4RK2rpNtyDWkbTQkLzcC8ui8yaMGYGtU=
+			3U4rJcqghGtJCYjV9xX3QWdORykJn8efcHDgZmbnI0A=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5Uq91sWqvkbjB470MGvIaxmOJ7c=
+			oQiZmJLWsHKUHv9uMT1Ug+7QyqM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9zEFT5rAbsVcGC6P3Ik00dGpWkFzrzkuYf34vF6FKHA=
+			KTI9phEfGH7sy9u7MugCWW37edXeVjrsUgePnaW7hAQ=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -616,33 +632,77 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kHWHyF903hfKQpPt5vufBQqPR9A=
+			rjHspqYu7rJoYfG7kqkvOmHLDsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ZkHLQkiGZJqLmw6shqPq6mUEsecNT+R7NMKL8Fj5+0=
+			mQ2aIzwk6JZI4dDG677iJyMeJgighjtWhH6yEDokrR8=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			w2bVAKgA2jemuBFA/Lh7IcNMM5w=
+			NqIxLD5JGS5J4OBg2PZhAuEWc1Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			MiW0LS6fRtxHwush3eIdfCYLgP32oWs2jezQFdTNq9c=
+			piKXqa9LRXTlFjb17vv3EuZHbROTrgo1f5wSLFbMhVo=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5qHQslCs6dA3xPwWy+wBnN/VjBU=
+			ocKuZTkcpgs8YeL2USg2nF4LO/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			FsXP+pbFzI2xUJj3NgWGOhRHgHs6tTt2y+IwDKBoU9g=
+			2EncHefKdYaZaynf7QPImqzRI3gRShjosQTshb8hFqE=
+			</data>
+		</dict>
+		<key>model/face.con</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ri9m8+arh4I5cc84ZJQWmLZeRkw=
+			</data>
+			<key>hash2</key>
+			<data>
+			7IeIIT0z6cHSjqX8UNgY80QWxOCI8OMWoOml4G8aQvc=
+			</data>
+		</dict>
+		<key>model/face.tracker</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yfFhQN51tbC0u9zeVcdPuIFbVxQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			tZuovBOLphBX8/viDYATiGQJR+G3ceNRODrEe1w1LHw=
+			</data>
+		</dict>
+		<key>model/face.tri</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+AiZ3IRZkJ3JbI3fCPq00NUJ3+I=
+			</data>
+			<key>hash2</key>
+			<data>
+			vXtGMbVMtrXBJvQqcX4Yjk/84tday5b+wNg/ohJ2oHc=
+			</data>
+		</dict>
+		<key>model/face2.tracker</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9KEmsnFNGKiVEvVfLGRSMz64Vcw=
+			</data>
+			<key>hash2</key>
+			<data>
+			L+i03Nk8WAqKi9kyVY4cDTPetzja+th7Vvr+0te0cgU=
 			</data>
 		</dict>
 	</dict>

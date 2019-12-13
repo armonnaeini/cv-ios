@@ -5,6 +5,483 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>00652E68-C85B-417C-B1E8-603DAF538FE2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>00652E68-C85B-417C-B1E8-603DAF538FE2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893233.139714</real>
+			<key>timeStoppedRecording</key>
+			<real>597893264.04692805</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>00652E68-C85B-417C-B1E8-603DAF538FE2</string>
+		</dict>
+		<key>4221284D-C1BF-402D-8A38-5A8F7B3A9A02</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4221284D-C1BF-402D-8A38-5A8F7B3A9A02.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893679.83078802</real>
+			<key>timeStoppedRecording</key>
+			<real>597893715.55345094</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>4221284D-C1BF-402D-8A38-5A8F7B3A9A02</string>
+		</dict>
+		<key>5EE6F2E0-D2C3-46C8-A80C-C947B82304DE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5EE6F2E0-D2C3-46C8-A80C-C947B82304DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893447.17678201</real>
+			<key>timeStoppedRecording</key>
+			<real>597893481.90086496</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>5EE6F2E0-D2C3-46C8-A80C-C947B82304DE</string>
+		</dict>
+		<key>6371FFC5-C64F-49D5-89F5-31026478738D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6371FFC5-C64F-49D5-89F5-31026478738D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597891445.14693606</real>
+			<key>timeStoppedRecording</key>
+			<real>597891549.162521</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>6371FFC5-C64F-49D5-89F5-31026478738D</string>
+		</dict>
+		<key>6B1F6E27-CF9D-4C60-9DBA-F11C2FFD0A2C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B1F6E27-CF9D-4C60-9DBA-F11C2FFD0A2C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893274.27753794</real>
+			<key>timeStoppedRecording</key>
+			<real>597893296.37588203</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>6B1F6E27-CF9D-4C60-9DBA-F11C2FFD0A2C</string>
+		</dict>
+		<key>72D70D6D-DCAB-4575-99DE-1A2AFA6B6CED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>72D70D6D-DCAB-4575-99DE-1A2AFA6B6CED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597890898.10676706</real>
+			<key>timeStoppedRecording</key>
+			<real>597890953.33401096</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>72D70D6D-DCAB-4575-99DE-1A2AFA6B6CED</string>
+		</dict>
+		<key>A2531498-246F-4F14-BCF3-45CAB3E16E25</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A2531498-246F-4F14-BCF3-45CAB3E16E25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893653.48273003</real>
+			<key>timeStoppedRecording</key>
+			<real>597893670.18308496</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>A2531498-246F-4F14-BCF3-45CAB3E16E25</string>
+		</dict>
+		<key>AE2E6D31-4343-4661-9D24-4085AE556388</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE2E6D31-4343-4661-9D24-4085AE556388.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893628.18805802</real>
+			<key>timeStoppedRecording</key>
+			<real>597893645.75410903</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>AE2E6D31-4343-4661-9D24-4085AE556388</string>
+		</dict>
+		<key>B65A3C0F-89D5-455C-8253-B8C39F1521F0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B65A3C0F-89D5-455C-8253-B8C39F1521F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893594.61547303</real>
+			<key>timeStoppedRecording</key>
+			<real>597893620.41112602</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>B65A3C0F-89D5-455C-8253-B8C39F1521F0</string>
+		</dict>
+		<key>C07C8364-E322-46ED-9A46-7D8F24B503EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C07C8364-E322-46ED-9A46-7D8F24B503EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893489.64954698</real>
+			<key>timeStoppedRecording</key>
+			<real>597893535.79216504</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>C07C8364-E322-46ED-9A46-7D8F24B503EC</string>
+		</dict>
+		<key>C34C77E9-130E-4EE4-8D6A-F256D189B675</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C34C77E9-130E-4EE4-8D6A-F256D189B675.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597891751.67737806</real>
+			<key>timeStoppedRecording</key>
+			<real>597891772.71051705</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>C34C77E9-130E-4EE4-8D6A-F256D189B675</string>
+		</dict>
+		<key>D7441E93-462C-422D-A998-3E9ACAF68CB2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7441E93-462C-422D-A998-3E9ACAF68CB2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893544.79663599</real>
+			<key>timeStoppedRecording</key>
+			<real>597893584.40179002</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>D7441E93-462C-422D-A998-3E9ACAF68CB2</string>
+		</dict>
+		<key>EDF89637-38D7-4543-904C-E76009CE47DC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EDF89637-38D7-4543-904C-E76009CE47DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893415.90366697</real>
+			<key>timeStoppedRecording</key>
+			<real>597893439.28046894</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>EDF89637-38D7-4543-904C-E76009CE47DC</string>
+		</dict>
+		<key>EF875660-668A-4301-AAEC-D320C75AFD9E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF875660-668A-4301-AAEC-D320C75AFD9E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>cv-ios project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>cv-ios</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug cv-ios</string>
+			<key>timeStartedRecording</key>
+			<real>597893380.39158201</real>
+			<key>timeStoppedRecording</key>
+			<real>597893382.36263096</real>
+			<key>title</key>
+			<string>Debug cv-ios</string>
+			<key>uniqueIdentifier</key>
+			<string>EF875660-668A-4301-AAEC-D320C75AFD9E</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
